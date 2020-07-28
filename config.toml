@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "PRML on AWS"
+theme = "hugo-theme-learn"
