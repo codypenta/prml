@@ -6,8 +6,8 @@ A Hugo based site on how to build production ready machine learning solutions on
 
 ## Roadmap
 
-- [] Complete MVP of index.md
-- [] Publish to Github
+- [x] Complete MVP of index.md
+- [x] Publish to Github
 - [] Add MIT license
 - [] Set/up CI/CD with Hugo
 - [] Complete Bottom Layer Production Ready Example
