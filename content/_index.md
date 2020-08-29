@@ -1,12 +1,14 @@
----
-title: Test
-draft: false
----
++++
+title = "Home"
+chapter = false
+weight = 1
+pre = "<b>1. </b>"
++++
 
 # Production Ready Machine Learning on AWS
 
 {{% notice warning %}}
-This is a very early work in progress, I would recommend investing time in other workshops like https://github.com/awslabs/amazon-sagemaker-examples, https://sagemaker-workshop.com/, https://www.sagemakerworkshop.com/, and https://www.getstartedonsagemaker.com/
+This is a very early work in progress, I would recommend investing time in other workshops like https://sagemaker-immersionday.workshop.aws/, https://github.com/awslabs/amazon-sagemaker-examples, https://sagemaker-workshop.com/, https://www.sagemakerworkshop.com/, and https://www.getstartedonsagemaker.com/
 {{% /notice %}}
 
 {{% notice info %}}
@@ -31,6 +33,12 @@ The objective is to take a bottom up approach to AI/ML on AWS. We do this by bui
 1. Build Machine Learning Services using Hardware and Compute that AWS provides
 2. Move a level up to the the more managed SageMaker platform
 3. Move another level up the ladder of abstraction and use AI Services
+
+## Overview of ML
+
+![ML Process](_index.files/ml.png)
+
+The Machine Learning workflow is a solved problem. Identify the business use case, frame it around machine learning, understand and clean your data, featurize your data set, train your model, deploy it in production, and monitor the business impact. This workshop should show every layer of the workflow.
 
 ## Overview of ML on AWS
 
