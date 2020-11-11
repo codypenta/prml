@@ -1,4 +1,6 @@
-# WIP! Production Ready Machine Learning on AWS
+# Archived.... Production Ready Machine Learning on AWS
+
+See https://sagemaker-immersionday.workshop.aws/ and https://ml-immersionday.workshop.aws/ instead
 
 > This is a very early work in progress, I would recommend investing time in other workshops like https://github.com/awslabs/amazon-sagemaker-examples, https://sagemaker-workshop.com/, https://www.sagemakerworkshop.com/, and https://www.getstartedonsagemaker.com/
 
