@@ -2,6 +2,8 @@
 
 See https://sagemaker-immersionday.workshop.aws/ and https://ml-immersionday.workshop.aws/ instead
 
+---
+
 > This is a very early work in progress, I would recommend investing time in other workshops like https://github.com/awslabs/amazon-sagemaker-examples, https://sagemaker-workshop.com/, https://www.sagemakerworkshop.com/, and https://www.getstartedonsagemaker.com/
 
 A Hugo based site on how to build production ready machine learning solutions on AWS. 
